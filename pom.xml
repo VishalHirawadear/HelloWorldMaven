@@ -32,7 +32,6 @@
     <url>http://3.134.83.109:8081/repository/maven-snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
